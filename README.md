@@ -21,7 +21,7 @@
 ![demo](https://image.ibb.co/gDETnq/Screenshot-2018-11-10-04-55-31.png)
 
 ### Features
-- Multi-threading
+- Multi-threading PT
 - 3 modes of detection
 - Regex powered heuristic scanning
 - Huge list of 3370 parameter names
